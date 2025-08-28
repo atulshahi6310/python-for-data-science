@@ -1,0 +1,140 @@
+Date,Category,Product,Quantity,Price,Revenue
+2025-02-01,Electronics,Smartphone,2,182,364
+2025-02-01,Groceries,Bread,5,1024,5120
+2025-02-01,Home Decor,Lamp,4,204,816
+2025-02-01,Groceries,Bread,5,1885,9425
+2025-02-01,Clothing,Jeans,3,987,2961
+2025-02-02,Home Decor,Chair,4,1716,6864
+2025-02-02,Clothing,Jacket,5,421,2105
+2025-02-02,Groceries,Rice,1,885,885
+2025-02-02,Groceries,Bread,1,1696,1696
+2025-02-02,Home Decor,Lamp,1,1213,1213
+2025-02-03,Home Decor,Lamp,1,141,141
+2025-02-03,Sports,Football,1,1260,1260
+2025-02-03,Home Decor,Lamp,4,876,3504
+2025-02-03,Home Decor,Curtains,2,1871,3742
+2025-02-03,Sports,Tennis Racket,1,837,837
+2025-02-03,Sports,Shoes,2,214,428
+2025-02-03,Sports,Football,5,1383,6915
+2025-02-04,Home Decor,Lamp,1,848,848
+2025-02-04,Sports,Shoes,4,868,3472
+2025-02-04,Groceries,Rice,5,1489,7445
+2025-02-04,Electronics,Smartphone,3,1510,4530
+2025-02-04,Electronics,Laptop,5,1476,7380
+2025-02-04,Groceries,Milk,3,1530,4590
+2025-02-04,Home Decor,Curtains,2,1383,2766
+2025-02-04,Electronics,Smartphone,3,501,1503
+2025-02-04,Electronics,Headphones,1,106,106
+2025-02-05,Groceries,Bread,2,931,1862
+2025-02-05,Groceries,Bread,5,112,560
+2025-02-05,Clothing,T-Shirt,2,1041,2082
+2025-02-05,Clothing,T-Shirt,3,929,2787
+2025-02-05,Electronics,Headphones,2,1314,2628
+2025-02-05,Sports,Shoes,5,733,3665
+2025-02-05,Clothing,Jeans,4,192,768
+2025-02-06,Groceries,Rice,1,1581,1581
+2025-02-06,Sports,Shoes,3,223,669
+2025-02-06,Sports,Tennis Racket,1,1039,1039
+2025-02-06,Sports,Football,2,1536,3072
+2025-02-06,Home Decor,Lamp,4,694,2776
+2025-02-07,Home Decor,Lamp,1,1302,1302
+2025-02-07,Clothing,Jeans,5,1509,7545
+2025-02-07,Clothing,Jacket,4,1580,6320
+2025-02-07,Home Decor,Chair,5,988,4940
+2025-02-07,Groceries,Bread,1,799,799
+2025-02-07,Electronics,Laptop,1,1884,1884
+2025-02-08,Sports,Football,3,402,1206
+2025-02-08,Sports,Tennis Racket,5,1510,7550
+2025-02-08,Clothing,Jeans,3,1769,5307
+2025-02-08,Electronics,Laptop,4,841,3364
+2025-02-08,Home Decor,Curtains,5,1965,9825
+2025-02-08,Home Decor,Lamp,3,179,537
+2025-02-08,Home Decor,Lamp,3,1086,3258
+2025-02-08,Sports,Football,4,640,2560
+2025-02-08,Home Decor,Curtains,1,1619,1619
+2025-02-09,Groceries,Milk,4,594,2376
+2025-02-09,Sports,Shoes,4,671,2684
+2025-02-09,Clothing,Jacket,2,1540,3080
+2025-02-09,Clothing,Jacket,3,1335,4005
+2025-02-09,Clothing,Jeans,2,1852,3704
+2025-02-09,Groceries,Bread,1,1984,1984
+2025-02-09,Clothing,Jeans,5,1363,6815
+2025-02-09,Clothing,Jacket,3,1319,3957
+2025-02-10,Electronics,Laptop,5,1605,8025
+2025-02-10,Home Decor,Chair,5,1335,6675
+2025-02-10,Electronics,Laptop,1,1229,1229
+2025-02-10,Clothing,T-Shirt,3,572,1716
+2025-02-10,Clothing,Jacket,2,1431,2862
+2025-02-10,Groceries,Milk,5,708,3540
+2025-02-11,Home Decor,Curtains,3,1239,3717
+2025-02-11,Groceries,Milk,1,221,221
+2025-02-11,Electronics,Headphones,1,249,249
+2025-02-11,Home Decor,Chair,4,1227,4908
+2025-02-11,Groceries,Bread,1,527,527
+2025-02-11,Home Decor,Curtains,1,107,107
+2025-02-11,Groceries,Milk,4,1362,5448
+2025-02-11,Sports,Tennis Racket,2,182,364
+2025-02-11,Groceries,Bread,5,1115,5575
+2025-02-12,Electronics,Headphones,3,1300,3900
+2025-02-12,Home Decor,Curtains,2,665,1330
+2025-02-12,Groceries,Milk,4,123,492
+2025-02-12,Sports,Tennis Racket,1,1795,1795
+2025-02-12,Home Decor,Lamp,5,612,3060
+2025-02-12,Groceries,Bread,1,1033,1033
+2025-02-12,Clothing,Jeans,2,1474,2948
+2025-02-13,Electronics,Headphones,1,1860,1860
+2025-02-13,Clothing,Jacket,2,1272,2544
+2025-02-13,Clothing,T-Shirt,4,720,2880
+2025-02-13,Groceries,Milk,5,1970,9850
+2025-02-13,Clothing,T-Shirt,4,851,3404
+2025-02-13,Clothing,Jacket,4,1033,4132
+2025-02-14,Sports,Tennis Racket,5,1780,8900
+2025-02-14,Clothing,T-Shirt,4,1617,6468
+2025-02-14,Electronics,Smartphone,4,1094,4376
+2025-02-14,Home Decor,Curtains,3,1040,3120
+2025-02-14,Clothing,T-Shirt,5,487,2435
+2025-02-15,Clothing,T-Shirt,2,125,250
+2025-02-15,Clothing,T-Shirt,5,1511,7555
+2025-02-15,Electronics,Headphones,1,1144,1144
+2025-02-15,Sports,Football,2,1264,2528
+2025-02-15,Sports,Football,5,428,2140
+2025-02-15,Electronics,Laptop,4,1561,6244
+2025-02-15,Electronics,Smartphone,2,486,972
+2025-02-15,Clothing,Jacket,5,1551,7755
+2025-02-16,Home Decor,Chair,4,657,2628
+2025-02-16,Electronics,Smartphone,3,384,1152
+2025-02-16,Clothing,Jeans,4,122,488
+2025-02-16,Home Decor,Chair,2,1636,3272
+2025-02-16,Electronics,Laptop,2,322,644
+2025-02-16,Home Decor,Chair,1,1077,1077
+2025-02-17,Electronics,Smartphone,4,562,2248
+2025-02-17,Electronics,Headphones,4,1080,4320
+2025-02-17,Home Decor,Lamp,2,1162,2324
+2025-02-17,Clothing,T-Shirt,3,65,195
+2025-02-17,Electronics,Laptop,5,1824,9120
+2025-02-17,Electronics,Laptop,1,1279,1279
+2025-02-17,Electronics,Laptop,3,1890,5670
+2025-02-17,Groceries,Rice,2,1261,2522
+2025-02-18,Clothing,Jeans,2,452,904
+2025-02-18,Sports,Football,4,1551,6204
+2025-02-18,Clothing,Jeans,2,1406,2812
+2025-02-18,Sports,Shoes,1,220,220
+2025-02-18,Groceries,Bread,5,391,1955
+2025-02-18,Electronics,Smartphone,3,178,534
+2025-02-19,Clothing,T-Shirt,5,1396,6980
+2025-02-19,Home Decor,Chair,2,1582,3164
+2025-02-19,Electronics,Headphones,2,613,1226
+2025-02-19,Clothing,Jacket,1,685,685
+2025-02-19,Clothing,Jacket,4,1992,7968
+2025-02-19,Electronics,Smartphone,3,1545,4635
+2025-02-19,Home Decor,Chair,2,951,1902
+2025-02-19,Sports,Football,2,1675,3350
+2025-02-20,Sports,Shoes,1,1478,1478
+2025-02-20,Electronics,Smartphone,1,1288,1288
+2025-02-20,Groceries,Rice,2,1187,2374
+2025-02-20,Sports,Football,2,1827,3654
+2025-02-20,Clothing,Jacket,1,603,603
+2025-02-20,Home Decor,Curtains,1,198,198
+2025-02-20,Electronics,Smartphone,5,255,1275
+2025-02-20,Electronics,Laptop,1,367,367
+2025-02-20,Home Decor,Lamp,2,404,808
