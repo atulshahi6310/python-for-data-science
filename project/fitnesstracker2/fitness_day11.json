@@ -1,0 +1,107 @@
+[
+    {
+        "Date": "2025-08-01",
+        "Steps": 8500,
+        "Calories": 2200,
+        "Workout_Min": 45,
+        "Sleep_Hours": 7
+    },
+    {
+        "Date": "2025-08-02",
+        "Steps": 6700,
+        "Calories": 2000,
+        "Workout_Min": 30,
+        "Sleep_Hours": 6
+    },
+    {
+        "Date": "2025-08-03",
+        "Steps": 12000,
+        "Calories": 2600,
+        "Workout_Min": 60,
+        "Sleep_Hours": 8
+    },
+    {
+        "Date": "2025-08-04",
+        "Steps": 5400,
+        "Calories": 1800,
+        "Workout_Min": 20,
+        "Sleep_Hours": 5
+    },
+    {
+        "Date": "2025-08-05",
+        "Steps": 9500,
+        "Calories": 2400,
+        "Workout_Min": 50,
+        "Sleep_Hours": 7
+    },
+    {
+        "Date": "2025-08-06",
+        "Steps": 11000,
+        "Calories": 2500,
+        "Workout_Min": 55,
+        "Sleep_Hours": 6.5
+    },
+    {
+        "Date": "2025-08-07",
+        "Steps": 7600,
+        "Calories": 2100,
+        "Workout_Min": 40,
+        "Sleep_Hours": 6
+    },
+    {
+        "Date": "2025-08-08",
+        "Steps": 13400,
+        "Calories": 2700,
+        "Workout_Min": 70,
+        "Sleep_Hours": 8
+    },
+    {
+        "Date": "2025-08-09",
+        "Steps": 9800,
+        "Calories": 2300,
+        "Workout_Min": 45,
+        "Sleep_Hours": 7
+    },
+    {
+        "Date": "2025-08-10",
+        "Steps": 4300,
+        "Calories": 1700,
+        "Workout_Min": 15,
+        "Sleep_Hours": 5.5
+    },
+    {
+        "Date": "2025-08-11",
+        "Steps": 12500,
+        "Calories": 2650,
+        "Workout_Min": 65,
+        "Sleep_Hours": 7.5
+    },
+    {
+        "Date": "2025-08-12",
+        "Steps": 8900,
+        "Calories": 2250,
+        "Workout_Min": 50,
+        "Sleep_Hours": 6.5
+    },
+    {
+        "Date": "2025-08-13",
+        "Steps": 10300,
+        "Calories": 2400,
+        "Workout_Min": 55,
+        "Sleep_Hours": 7
+    },
+    {
+        "Date": "2025-08-14",
+        "Steps": 7200,
+        "Calories": 2000,
+        "Workout_Min": 30,
+        "Sleep_Hours": 6
+    },
+    {
+        "Date": "2025-08-15",
+        "Steps": 14000,
+        "Calories": 2800,
+        "Workout_Min": 80,
+        "Sleep_Hours": 8
+    }
+]
